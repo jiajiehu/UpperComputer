@@ -1,0 +1,14 @@
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\bin\Release\UpperComputer.exe.config
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\bin\Release\UpperComputer.exe
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\bin\Release\UpperComputer.pdb
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\bin\Release\System.IO.Ports.dll
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\bin\Release\System.IO.Ports.xml
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Release\UpperComputer.csproj.AssemblyReference.cache
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Release\UpperComputer.csproj.SuggestedBindingRedirects.cache
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Release\UpperComputer.MainForm.resources
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Release\UpperComputer.Properties.Resources.resources
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Release\UpperComputer.csproj.GenerateResource.cache
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Release\UpperComputer.csproj.CoreCompileInputs.cache
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Release\UpperComputer.csproj.CopyComplete
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Release\UpperComputer.exe
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Release\UpperComputer.pdb

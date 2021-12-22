@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO.Ports;
+using System.IO
 namespace UpperComputer
 {
     internal class SerialPortUtils
@@ -65,6 +66,7 @@ namespace UpperComputer
                 {
                     count = 0;
                     MainForm.CurrentValue = (double)((short)Program.ByteToUshort(transBuffer[1], transBuffer[2]))/10;
+                    File.AppendAllText("temperature.txt", String.Format("{0} ", MainForm.CurrentValue));
                     if (transBuffer[0]==0x01)
                     {
                         MainForm.CurrentValue *= -1;

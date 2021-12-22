@@ -1,0 +1,14 @@
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\bin\Debug\UpperComputer.exe.config
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\bin\Debug\UpperComputer.exe
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\bin\Debug\UpperComputer.pdb
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Debug\UpperComputer.csproj.AssemblyReference.cache
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Debug\UpperComputer.csproj.SuggestedBindingRedirects.cache
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Debug\UpperComputer.Properties.Resources.resources
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Debug\UpperComputer.csproj.GenerateResource.cache
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Debug\UpperComputer.csproj.CoreCompileInputs.cache
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Debug\UpperComputer.exe
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Debug\UpperComputer.pdb
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Debug\UpperComputer.MainForm.resources
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\bin\Debug\System.IO.Ports.dll
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\bin\Debug\System.IO.Ports.xml
+C:\Users\86156\Desktop\STUDY\automation\大创\上位机\UpperComputer\obj\Debug\UpperComputer.csproj.CopyComplete

@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Threading;
+using System.IO
 namespace UpperComputer
 {
     public partial class MainForm : Form
@@ -15,7 +16,7 @@ namespace UpperComputer
         public MainForm()
         {
             InitializeComponent();
-            //SerialPortUtils.OpenClosePort("COM2", 38400);
+            SerialPortUtils.OpenClosePort("COM7", 38400);
             SetValue = 0;
             enTrans = false;
             isTraning = false;
